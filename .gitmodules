@@ -1,0 +1,3 @@
+[submodule "tutor-checkout"]
+	path = tutor-checkout
+	url = https://github.com/therealblee/tutor-checkout
